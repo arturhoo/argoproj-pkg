@@ -1,4 +1,4 @@
-module github.com/argoproj/pkg
+module github.com/arturhoo/argoproj-pkg
 
 go 1.14
 
